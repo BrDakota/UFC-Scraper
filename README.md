@@ -1,2 +1,2 @@
 # MTG-Scraper
-This is a web scraper built in python to scrap MTG cards. Should help with my deck building.
+This is a web scraper built to scrape the stats of active UFC fighters
